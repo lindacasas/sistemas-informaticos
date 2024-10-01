@@ -1,0 +1,59 @@
+/*html body{
+    background: #c8ebfc;
+    font-size: 15px;
+}
+
+#seccion-saludo{
+    background-color: #f47fee;
+}
+
+.contenidoSaludo{
+    font-family: Arial, sans-serif;
+    padding: 10px 0 0 0;
+    margin-top: 5px;
+    background-color: #9ef47f;
+}*/
+
+/*nombre de la clase=10*/
+/*.clase1{
+    color: #9e3d8a;
+}
+
+/*nombre de la etiqueta =1 + nombre de la clase=10 =11 */
+/*h1.clase1{
+    color: #000000;
+}
+
+h1.clase1{
+    color: #ce0404 !important;
+}*/
+
+:root{
+    --color-fondo: #8c8daf;
+
+}
+
+
+/*BLOQUE*/
+.contendor{
+    background: #8c8daf;
+}
+
+/*ELEMENTOS*/
+.contenedor_titulo{
+    color: #000000;
+}
+
+.contenedor_descripcion{
+    color: #000000;
+}
+
+/*MODIFICADORES*/
+.contenedor_descripcion--remarcado{
+    font-weight: 800;
+}
+
+.contendor--color{
+    background: #a4cd8e;
+}
+
